@@ -1,0 +1,38 @@
+.webstudio {
+  font-family: "Raleway", sans-serif;
+  color: #2196f3;
+  line-height: 1.5;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #212121;
+  line-height: 2;
+}
+
+.link {
+  font-weight: 500;
+  color: #757575;
+}
+.link:hover {
+  color: #2196f3;
+}
+
+.button {
+  font-weight: 500;
+  cursor: pointer;
+}
+.button:hover {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+
+.line1text {
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+p {
+  color: #757575;
+  line-height: 2;
+}
