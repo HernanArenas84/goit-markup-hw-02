@@ -14,7 +14,12 @@ body {
   font-weight: 500;
   color: #757575;
 }
-.link:hover {
+
+.link:active {
+  color: fuchsia;
+}
+
+.contacts-link:hover {
   color: #2196f3;
 }
 
@@ -27,12 +32,12 @@ body {
   background-color: #2196f3;
 }
 
-.line1text {
+.project-text {
   font-weight: 700;
   line-height: 1.5;
 }
 
-p {
+.position-text {
   color: #757575;
   line-height: 2;
 }
