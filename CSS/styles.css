@@ -1,9 +1,16 @@
 :root {
-  --white-color: #FFF;
-  --black-color: #000;
+  --white-color: #ffffff;
+  --black-color: #212121;
+  --blue-color: #2196f3;
+  --grey-color: #757575;
+  --fuchsia-color: fuchsia;
 }
 body {
   color: var(--white-color);
+  color: var(--black-color);
+  color: var(--blue-color);
+  color: var(--grey-color);
+  color: var(--fuchsia-color);
 }
 
 .webstudio {
